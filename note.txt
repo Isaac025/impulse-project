@@ -15,3 +15,8 @@ branch
 push
 pull
 add
+
+existing repository
+gitadd .
+git commit -m 
+git push
