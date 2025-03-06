@@ -1,0 +1,17 @@
+VEERSION CONTROL
+manage files and folders on our device
+
+repository
+(folder for a project)
+
+terminal
+git bash
+
+git status
+init
+add - git add index.html, git add style.css, git add . (every files and folders)
+commit
+branch
+push
+pull
+add
