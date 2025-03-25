@@ -1,6 +1,7 @@
 header {
   background-image: url(lifestyle.jpeg);
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   opacity: 1.2;
   object-fit: cover;
